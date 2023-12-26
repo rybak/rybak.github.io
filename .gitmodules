@@ -1,0 +1,3 @@
+[submodule "emoji-games"]
+	path = emoji-games
+	url = https://github.com/rybak/emoji-games.git
